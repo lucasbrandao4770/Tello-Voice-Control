@@ -1,4 +1,4 @@
-# **Evaluating Voice Command Pipelines for Drone Control: From STT and LLM to Direct Classification and Siamese Networks**
+## **Evaluating Voice Command Pipelines for Drone Control: From STT and LLM to Direct Classification and Siamese Networks**
 
 ### Integrantes
 202105854 - Lucas Brandão Rodrigues <br>
